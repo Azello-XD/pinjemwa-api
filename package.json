@@ -1,0 +1,11 @@
+{
+  "name": "wacuan-api",
+  "version": "1.0.0",
+  "description": "API WhatsApp pairing & QR",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.6.7"
+  }
+}
